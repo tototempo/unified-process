@@ -62,7 +62,7 @@ To see all the explained diagrams and the documentation of the whole process, yo
 
 ## Credits
 Authors:
-* [Tomas Temporelli](github.com/tototempo)
-* [Ignacio Garcia](github.com/nachog2000)
-* [Alejandro Zdut](github.com/alezdut)
+* [Tomas Temporelli](https://github.com/tototempo)
+* [Ignacio Garcia](https://github.com/nachog2000)
+* [Alejandro Zdut](https://github.com/alezdut)
 * Nicolas Luccatto
